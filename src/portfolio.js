@@ -11,7 +11,7 @@ const about = {
   description:
     'I am Full stack developer i am studying in L.J. College Of Engineering And Technology.I have complete knowledge of NodeJS,ExpressJS,Data Structures,Java,Databases,Mongodb,SQL,Javascript,ReactJS.',
   resume:
-    'https://drive.google.com/file/d/1DCSiVLXXToK39i8xwXHUUnf3WeieSp1q/view?usp=sharing',
+    'https://drive.google.com/file/d/1UoC3faHkepShwA8_Bicey0Kg-pQWADEJ/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/hitesh-bhatia-939931182/',
     github: 'https://github.com/hiteshbhtia',
